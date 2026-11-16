@@ -9,7 +9,7 @@
 
 services:
   - type: web
-    plan: 0.5c-512mb
+    plan: 1c-2g
     # This is the runtime for services that pull a prebuilt Docker image
     runtime: image
     # You can give the service any name
